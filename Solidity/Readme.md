@@ -23,7 +23,7 @@ The vision of NeoBank is to revolutionize the traditional banking industry by le
 - *Instant Transfers*: Fast and cost-effective peer-to-peer transactions.
 - *Scalability*: Designed to accommodate future upgrades and enhancements.
 
-- ## Contact Address :
+- ## Contract Address :
 - 0x51322B8d5561544B0A847c5CF631DcdAE4b0cA5f
 
 - ![image](https://github.com/user-attachments/assets/31d54831-7f19-4f4f-abce-3e08e24f69ab)
